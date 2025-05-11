@@ -1,0 +1,5 @@
+- 启动PyMOL
+- 运行脚本：在PyMOL命令行中输入 run PPI.py
+- 加载您的PDB文件： load your_structure.pdb
+- 选择目标分子：例如 select target, chain A+B
+- 分析相互作用： calculate_interactions target, interactions.xlsx
